@@ -5,7 +5,7 @@
 ### Table of Contents
 
 | No. | Content | Docs Links | src Links | Status |
-|:---:|:---:|:---:|:---:|:---:|
+|:---:|---|:---:|:---:|:---:|
 | 1. | [Introduction](/docs/01/introduction.md) | [Tutorials](#) | [Source Code](/exercise/src/01-intro.js) | Completed |
 | 2. | [Course Overview](/docs/01/course-overview.md) | [Tutorials](#) | [Source Code](/exercise/src/01-intro.js) | Completed |
 | 3. | [What is JavaScript](#) | [Tutorials](#) | [Source Code](#) | Status |
