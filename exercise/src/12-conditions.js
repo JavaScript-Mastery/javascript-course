@@ -2,5 +2,5 @@
 //        conditionals          |
 // ==============================
 
-// 1. conditionals [click here...](/)
-// 2. conditionals-exercise [click here...](/)
+// 1. conditionals 
+// 2. conditionals-exercise 

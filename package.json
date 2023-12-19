@@ -1,0 +1,19 @@
+{
+  "name": "js-mastery-course",
+  "version": "1.0.0",
+  "description": "JavaScript course",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "Ajay-Dhangar",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^3.0.2"
+  }
+}
